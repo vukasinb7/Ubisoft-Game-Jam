@@ -1,0 +1,94 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "Rhythm",
+            "id": "1366916a-cfda-499f-ac78-8ea7e8d2662d",
+            "actions": [
+                {
+                    "name": "FirstLane",
+                    "type": "PassThrough",
+                    "id": "d6c307f5-b1d6-433a-bc07-e41fdf629451",
+                    "expectedControlType": "DiscreteButton",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SecondLane",
+                    "type": "Button",
+                    "id": "caa85a22-f6fc-4e28-844d-71c4715dda37",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ThirdLane",
+                    "type": "Button",
+                    "id": "a992dbfa-b4b9-4173-a7b4-f5f5e40c9571",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "FourthLane",
+                    "type": "Button",
+                    "id": "640a5553-cfb9-4814-a536-ad3b149551e5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4d8d42b7-7601-482c-8ec9-1e5a88e5d863",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FirstLane",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "41e148da-74d7-4b70-b90c-1d0396215477",
+                    "path": "<Keyboard>/f",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SecondLane",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "57292446-6c81-498f-aa34-b0a8156d51a2",
+                    "path": "<Keyboard>/j",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ThirdLane",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b56a9b90-aefd-43c6-a269-c2cdce8cc71d",
+                    "path": "<Keyboard>/k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FourthLane",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

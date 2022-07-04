@@ -1,5 +1,19 @@
 # Ubisoft Game Jam 2022
 
-3rd placed game
+This game was made in *24h* for Ubisoft Belgrade Game Jam 2022. It placed 3rd.
 
-> Theme: *Muscle memory*
+> Theme: `Muscle memory`
+
+> Gameplay
+>
+> ![gameplay](https://github.com/vukasinb7/Ubisoft-Game-Jam/raw/main/Assets/gameplay.gif)
+
+
+
+> Team
+> | ![Igor](https://i.imgur.com/A3WFOhZ.gif) | ![Ivana](https://i.imgur.com/HgFLBS0.gif) | ![Stefan](https://i.imgur.com/vhS8yjv.gif) | ![Vukasin](https://i.imgur.com/gdd8g1I.gif) |
+> |----------|----------|-----------|----------|
+> | [Igor](https://www.instagram.com/kandicigor_/) | [Ivana](https://www.instagram.com/ivana_vojnic_tunic/) | [Stefan](https://www.instagram.com/stefan.jov01/) | [Vukasin](https://www.instagram.com/vukasinb7/) |
+
+
+
